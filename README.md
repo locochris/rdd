@@ -14,6 +14,7 @@ gem install rdd
 # Usage
 
 * create a `spec/readme_spec.rb` spec file
+
 ``` ruby
 require 'rdd/rspec'
 
@@ -21,6 +22,7 @@ describe_readme(File.expand_path('../../../README.md', __FILE__))
 ```
 
 * run the spec
+
 ```
 rspec -cfn spec/readme_spec.rb
 ```
