@@ -1,4 +1,4 @@
-dm-regex
+rdd
 ===
 
 [![Build Status](https://travis-ci.org/locochris/rdd.png)](https://travis-ci.org/locochris/rdd)
