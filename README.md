@@ -2,6 +2,7 @@ rdd
 ===
 
 [![Build Status](https://travis-ci.org/locochris/rdd.png)](https://travis-ci.org/locochris/rdd)
+[![Gem Version](https://badge.fury.io/rb/rdd.png)](http://badge.fury.io/rb/rdd)
 [![Dependency Status](https://gemnasium.com/locochris/rdd.png)](https://gemnasium.com/locochris/rdd)
 
 Installation
