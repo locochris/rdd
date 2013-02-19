@@ -1,6 +1,6 @@
 # rdd Changelog
 
-## 0.0.1 (unreleased)
+## 0.0.2 (unreleased)
 
   * Add CHANGELOG
 
