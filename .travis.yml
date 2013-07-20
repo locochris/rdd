@@ -4,5 +4,5 @@ rvm:
 #  - rbx
   - jruby
   - ree
-  - ruby-head
+#  - ruby-head
   - 2.0.0
