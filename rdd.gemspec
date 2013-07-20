@@ -9,14 +9,13 @@ Gem::Specification.new do |gem|
   gem.summary     = 'RDD - Readme Driven Development - runs examples found in README files'
   gem.description = gem.summary
   gem.homepage    = "http://github.com/locochris/#{gem.name}"
+  gem.licenses    = %w{BSD MIT}
 
   gem.files            = `git ls-files`.split("\n")
   gem.test_files       = `git ls-files -- {spec}/*`.split("\n")
 
   gem.require_paths = [ 'lib' ]
   gem.version       = RDD::VERSION
-
-  gem.required_ruby_version = '>= 1.9.2'
 
   gem.add_development_dependency('rake', '~> 10.0')
   gem.add_development_dependency('rspec', '~> 2.0')
